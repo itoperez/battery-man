@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ThirdPersonCPP-0012.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\ThirdPersonCPPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\BatteryMan.cpp.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\BatteryMan_GameMode.cpp.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\ThirdPersonCPP.cpp.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\ThirdPersonCPPCharacter.cpp.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\ThirdPersonCPPGameMode.cpp.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\BatteryMan.gen.cpp.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\BatteryMan_GameMode.gen.cpp.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\ThirdPersonCPP.init.gen.cpp.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\ThirdPersonCPPCharacter.gen.cpp.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\ThirdPersonCPPGameMode.gen.cpp.obj"
+"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\Default.rc2.res"
+/OUT:"D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\UE4Editor-ThirdPersonCPP-0012.lib"

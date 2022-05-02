@@ -1,0 +1,2 @@
+D:\Unreal Projects\ThirdPersonCPP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonCPP\Definitions.ThirdPersonCPP.h
+D:\Unreal Projects\ThirdPersonCPP\Source\ThirdPersonCPP\ThirdPersonCPP.h

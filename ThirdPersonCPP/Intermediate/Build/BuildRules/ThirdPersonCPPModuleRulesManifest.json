@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\ThirdPersonCPP\\Source\\ThirdPersonCPP\\ThirdPersonCPP.Build.cs",
+		"D:\\Unreal Projects\\ThirdPersonCPP\\Source\\ThirdPersonCPP.Target.cs",
+		"D:\\Unreal Projects\\ThirdPersonCPP\\Source\\ThirdPersonCPPEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

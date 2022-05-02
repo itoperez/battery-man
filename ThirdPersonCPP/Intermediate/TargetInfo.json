@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ThirdPersonCPP",
+			"Path": "D:\\Unreal Projects\\ThirdPersonCPP\\Source\\ThirdPersonCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ThirdPersonCPPEditor",
+			"Path": "D:\\Unreal Projects\\ThirdPersonCPP\\Source\\ThirdPersonCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
